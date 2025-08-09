@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shinto Tony 👋
 
-<!--
-**ShintoTonyProjects/ShintoTonyProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an entrepreneur and developer specializing in smart home automation, IoT, App Development and embedded systems. I enjoy working with Python, Flutter, Raspberry Pi, and Arduino.
 
-Here are some ideas to get you started:
+## Skills
+- 🔧 **Programming Languages:** Python, Dart (Flutter), C++
+- 🛠️ **Technologies:** Raspberry Pi, Arduino, Firebase, Face Recognition
+- 📱 **App Development:** Flutter, Firebase Authentication & Firestore
+- 🏠 **Entrepreneurship:** Founder at Dejavu Smart Homes - Smart home automation & CCTV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Dejavu Smart Homes] - Home automation startup with integrated App and Devices.
+- [Vehicle Smart Security System](https://github.com/ShintoTonyProjects/Vehicle_Security_System) (Private repo, ask me for access)
+
+## Contact Me
+- 📫 Email:shintotony98@gmail.com
+- 🌐 LinkedIn: [linkedin.com/in/shintoTony](https://linkedin.com/in/shintoTony)
+- 🐦 Twitter: [@shintoTony](https://twitter.com/shintoTony)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=shintoTony&color=blue)
+
+![Shinto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintoTony&show_icons=true&theme=radical)
