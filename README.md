@@ -13,14 +13,13 @@ Founder of **Dejavu Smart Homes** 🏠 — delivering next-gen automation, secur
 - **IoT & Embedded:** Raspberry Pi, Arduino, ESP32
 - **Cloud & Databases:** Firebase, Firestore, Realtime Database
 - **Specialized Systems:** Face Recognition, Drowsiness Detection, RFID, Automation Control
-- **Others:** Git, REST APIs, MQTT
 
 ---
 
 ## 📌 Featured Projects
 - **Dejavu Smart Homes** – IoT-based home automation with integrated CCTV & face recognition.  
-- **Face Recognition Car Unlock** – A secure, AI-powered unlocking system with liveness detection. *(Private repository — contact for details)*  
-- **Vehicle Safety & Shutdown System** – Prevents unauthorized vehicle usage with cloud-based controls. *(In Progress)*  
+- **Vehicle Safety & Shutdown System** – Prevents unauthorized vehicle usage with cloud-based controls. *(Private repository — contact for details)*  
+
 
 ---
 
