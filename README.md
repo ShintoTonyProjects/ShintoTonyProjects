@@ -4,7 +4,7 @@
 I'm an entrepreneur and developer passionate about **Smart Home Automation**, **IoT**, **Face Recognition Systems**, and **Embedded Solutions**.  
 I enjoy working at the intersection of **hardware and software**, bringing futuristic ideas to life with **Python, Flutter, Raspberry Pi, and Arduino**.
 
-Founder of **Dejavu Smart Homes** 🏠 — delivering next-gen automation, security, and smart living experiences.
+Co-Founder of **Dejavu Smart Homes** 🏠 — delivering next-gen automation, security, and smart living experiences.
 
 ---
 
