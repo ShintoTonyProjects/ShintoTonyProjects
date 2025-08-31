@@ -35,7 +35,7 @@ I believe in **iterative innovation** — my projects often evolve rapidly as I 
 
 ## 📫 Contact Me
 - Email: shintotony98@gmail.com  
-- LinkedIn: [shintoTony](https://www.linkedin.com/in/shinto-tony/)
+- LinkedIn: [Shinto Tony](https://www.linkedin.com/in/shinto-tony/)
 
 ---
 
